@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(54, 152, 197);
+    color: black;
+    font-family:'Orbitron', sans-serif;
+    font-size: 22px;
+    }
+    .reverse {
+    background-color: rgba(220, 17, 247, 0.274) !important;
+    color: rgb(23, 38, 122);
+    }
+    p {
+    padding: 100px;
+    }
